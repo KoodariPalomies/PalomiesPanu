@@ -1,21 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\kurssit\\ohj1\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj": {}
+    "C:\\Users\\Omistaja\\Source\\Repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj": {}
   },
   "projects": {
-    "C:\\kurssit\\ohj1\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj": {
+    "C:\\Users\\Omistaja\\Source\\Repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\kurssit\\ohj1\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
+        "projectUniqueName": "C:\\Users\\Omistaja\\Source\\Repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
         "projectName": "PalomiesPanu",
-        "projectPath": "C:\\kurssit\\ohj1\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
-        "packagesPath": "C:\\Users\\Käyttäjä\\.nuget\\packages\\",
-        "outputPath": "C:\\kurssit\\ohj1\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu\\obj\\",
+        "projectPath": "C:\\Users\\Omistaja\\Source\\Repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
+        "packagesPath": "C:\\Users\\Omistaja\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Omistaja\\Source\\Repos\\PalomiesPanu\\PalomiesPanu\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [
-          "C:\\Users\\Käyttäjä\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Omistaja\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -27,6 +27,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -38,6 +39,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "dependencies": {
             "Jypeli.Core": {
               "target": "Package",
@@ -58,12 +60,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.23, 3.1.23]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

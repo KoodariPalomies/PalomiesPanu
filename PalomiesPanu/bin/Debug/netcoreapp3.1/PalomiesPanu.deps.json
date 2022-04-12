@@ -8,21 +8,21 @@
     ".NETCoreApp,Version=v3.1": {
       "PalomiesPanu/1.0.0": {
         "dependencies": {
-          "Jypeli.Core": "9.0.1",
+          "Jypeli.Core": "9.1.0",
           "Jypeli.Physics2d.Core": "1.5.1"
         },
         "runtime": {
           "PalomiesPanu.dll": {}
         }
       },
-      "Jypeli.Core/9.0.1": {
+      "Jypeli.Core/9.1.0": {
         "dependencies": {
           "System.Drawing.Common": "4.7.0"
         },
         "runtime": {
           "lib/netcoreapp3.1/Jypeli.dll": {
-            "assemblyVersion": "9.0.1.0",
-            "fileVersion": "9.0.1.0"
+            "assemblyVersion": "9.1.0.0",
+            "fileVersion": "9.1.0.0"
           },
           "lib/netcoreapp3.1/MonoGame.Framework.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -74,7 +74,7 @@
       },
       "Jypeli.Physics2d.Core/1.5.1": {
         "dependencies": {
-          "Jypeli.Core": "9.0.1"
+          "Jypeli.Core": "9.1.0"
         },
         "runtime": {
           "lib/netcoreapp3.1/Jypeli.Physics2d.dll": {
@@ -137,12 +137,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Jypeli.Core/9.0.1": {
+    "Jypeli.Core/9.1.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-3dPUip8UulUfnbHSzHDAvCQuDTfSvpt1Yc7cvLXLkvBrENpc8/oui8YmmQT2L8I2WdI56g3cPZiiRZ9ZF/z7aQ==",
-      "path": "jypeli.core/9.0.1",
-      "hashPath": "jypeli.core.9.0.1.nupkg.sha512"
+      "sha512": "sha512-OukicQqszg0G57IfUMpBPLVGNu1VLIN7diR1Qo4LbZAylzx9egR8P0mkZb9K66qEZYnshKOFdHTRl0ALD7z9cg==",
+      "path": "jypeli.core/9.1.0",
+      "hashPath": "jypeli.core.9.1.0.nupkg.sha512"
     },
     "Jypeli.Physics2d.Core/1.5.1": {
       "type": "package",

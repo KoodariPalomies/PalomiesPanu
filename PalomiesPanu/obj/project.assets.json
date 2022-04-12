@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Jypeli.Core/9.0.1": {
+      "Jypeli.Core/9.1.0": {
         "type": "package",
         "dependencies": {
           "System.Drawing.Common": "4.7.0"
@@ -115,16 +115,17 @@
     }
   },
   "libraries": {
-    "Jypeli.Core/9.0.1": {
-      "sha512": "3dPUip8UulUfnbHSzHDAvCQuDTfSvpt1Yc7cvLXLkvBrENpc8/oui8YmmQT2L8I2WdI56g3cPZiiRZ9ZF/z7aQ==",
+    "Jypeli.Core/9.1.0": {
+      "sha512": "OukicQqszg0G57IfUMpBPLVGNu1VLIN7diR1Qo4LbZAylzx9egR8P0mkZb9K66qEZYnshKOFdHTRl0ALD7z9cg==",
       "type": "package",
-      "path": "jypeli.core/9.0.1",
+      "path": "jypeli.core/9.1.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "Jypeli.txt",
-        "jypeli.core.9.0.1.nupkg.sha512",
+        "jypeli.core.9.1.0.nupkg.sha512",
         "jypeli.core.nuspec",
+        "jypeli_logo.png",
         "lib/netcoreapp3.1/Jypeli.dll",
         "lib/netcoreapp3.1/Jypeli.xml",
         "lib/netcoreapp3.1/MonoGame.FrameWork.xml",
@@ -245,20 +246,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Käyttäjä\\.nuget\\packages\\": {}
+    "C:\\Users\\Omistaja\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\kurssit\\ohj1\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
+      "projectUniqueName": "C:\\Users\\Omistaja\\Source\\Repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
       "projectName": "PalomiesPanu",
-      "projectPath": "C:\\kurssit\\ohj1\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
-      "packagesPath": "C:\\Users\\Käyttäjä\\.nuget\\packages\\",
-      "outputPath": "C:\\kurssit\\ohj1\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu\\obj\\",
+      "projectPath": "C:\\Users\\Omistaja\\Source\\Repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
+      "packagesPath": "C:\\Users\\Omistaja\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Omistaja\\Source\\Repos\\PalomiesPanu\\PalomiesPanu\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
-        "C:\\Users\\Käyttäjä\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Omistaja\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -270,6 +271,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -281,6 +283,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Jypeli.Core": {
             "target": "Package",
@@ -301,12 +304,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[3.1.10, 3.1.10]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[3.1.23, 3.1.23]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[3.1.0, 3.1.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

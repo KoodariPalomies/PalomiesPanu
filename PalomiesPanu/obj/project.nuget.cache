@@ -1,14 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "92XPSf8s206KbgtqRTyZuenv3wSaQofFSiz6zePhHIjymo7Up2m4qMiYEFMGoB5zGh8R7yltjjocqR2FXVhMCQ==",
+  "dgSpecHash": "qQm3ZlBwwRsQ6QPYTXkl6gGOvQqxAG6rkaxQ6+BpMS5jLlrOqNwH/5KVwXbXDaAQpIB1eEqCzBHciuDlwo3rIg==",
   "success": true,
-  "projectFilePath": "C:\\kurssit\\ohj1\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
+  "projectFilePath": "C:\\Users\\Omistaja\\Source\\Repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Käyttäjä\\.nuget\\packages\\jypeli.core\\9.0.1\\jypeli.core.9.0.1.nupkg.sha512",
-    "C:\\Users\\Käyttäjä\\.nuget\\packages\\jypeli.physics2d.core\\1.5.1\\jypeli.physics2d.core.1.5.1.nupkg.sha512",
-    "C:\\Users\\Käyttäjä\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
-    "C:\\Users\\Käyttäjä\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
-    "C:\\Users\\Käyttäjä\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+    "C:\\Users\\Omistaja\\.nuget\\packages\\jypeli.core\\9.1.0\\jypeli.core.9.1.0.nupkg.sha512",
+    "C:\\Users\\Omistaja\\.nuget\\packages\\jypeli.physics2d.core\\1.5.1\\jypeli.physics2d.core.1.5.1.nupkg.sha512",
+    "C:\\Users\\Omistaja\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Omistaja\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Omistaja\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\Omistaja\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
+    "C:\\Users\\Omistaja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Omistaja\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Omistaja\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
   ],
   "logs": []
 }
