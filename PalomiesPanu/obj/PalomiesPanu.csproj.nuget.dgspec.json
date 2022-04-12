@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Omistaja\\Source\\Repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj": {}
+    "C:\\Users\\Omistaja\\source\\repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Omistaja\\Source\\Repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj": {
+    "C:\\Users\\Omistaja\\source\\repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Omistaja\\Source\\Repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
+        "projectUniqueName": "C:\\Users\\Omistaja\\source\\repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
         "projectName": "PalomiesPanu",
-        "projectPath": "C:\\Users\\Omistaja\\Source\\Repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
+        "projectPath": "C:\\Users\\Omistaja\\source\\repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
         "packagesPath": "C:\\Users\\Omistaja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Omistaja\\Source\\Repos\\PalomiesPanu\\PalomiesPanu\\obj\\",
+        "outputPath": "C:\\Users\\Omistaja\\source\\repos\\PalomiesPanu\\PalomiesPanu\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [

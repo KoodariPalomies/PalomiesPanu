@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qQm3ZlBwwRsQ6QPYTXkl6gGOvQqxAG6rkaxQ6+BpMS5jLlrOqNwH/5KVwXbXDaAQpIB1eEqCzBHciuDlwo3rIg==",
+  "dgSpecHash": "ZTQ98ghuzDcrb/KP+U+1XE5wVSaSsmnm7rxQciE9yJkujF5bjgC6rrNiEuYDu/LY9lvqA7QTYpBpmInWWfi+yg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Omistaja\\Source\\Repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
+  "projectFilePath": "C:\\Users\\Omistaja\\source\\repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Omistaja\\.nuget\\packages\\jypeli.core\\9.1.0\\jypeli.core.9.1.0.nupkg.sha512",
     "C:\\Users\\Omistaja\\.nuget\\packages\\jypeli.physics2d.core\\1.5.1\\jypeli.physics2d.core.1.5.1.nupkg.sha512",
