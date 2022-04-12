@@ -32,7 +32,6 @@ C:\kurssit\ohj1\PalomiesPanu\PalomiesPanu\PalomiesPanu\obj\Debug\netcoreapp3.1\P
 C:\kurssit\ohj1\PalomiesPanu\PalomiesPanu\PalomiesPanu\obj\Debug\netcoreapp3.1\PalomiesPanu.genruntimeconfig.cache
 C:\Users\Omistaja\Source\Repos\PalomiesPanu\PalomiesPanu\bin\Debug\netcoreapp3.1\PalomiesPanu.exe
 C:\Users\Omistaja\Source\Repos\PalomiesPanu\PalomiesPanu\bin\Debug\netcoreapp3.1\Content\kentta1.txt
-C:\Users\Omistaja\Source\Repos\PalomiesPanu\PalomiesPanu\bin\Debug\netcoreapp3.1\Content\maali.wav
 C:\Users\Omistaja\Source\Repos\PalomiesPanu\PalomiesPanu\bin\Debug\netcoreapp3.1\PalomiesPanu.deps.json
 C:\Users\Omistaja\Source\Repos\PalomiesPanu\PalomiesPanu\bin\Debug\netcoreapp3.1\PalomiesPanu.runtimeconfig.json
 C:\Users\Omistaja\Source\Repos\PalomiesPanu\PalomiesPanu\bin\Debug\netcoreapp3.1\PalomiesPanu.runtimeconfig.dev.json
@@ -63,3 +62,5 @@ C:\Users\Omistaja\Source\Repos\PalomiesPanu\PalomiesPanu\obj\Debug\netcoreapp3.1
 C:\Users\Omistaja\Source\Repos\PalomiesPanu\PalomiesPanu\obj\Debug\netcoreapp3.1\PalomiesPanu.dll
 C:\Users\Omistaja\Source\Repos\PalomiesPanu\PalomiesPanu\obj\Debug\netcoreapp3.1\PalomiesPanu.pdb
 C:\Users\Omistaja\Source\Repos\PalomiesPanu\PalomiesPanu\obj\Debug\netcoreapp3.1\PalomiesPanu.genruntimeconfig.cache
+C:\Users\Omistaja\source\repos\PalomiesPanu\PalomiesPanu\bin\Debug\netcoreapp3.1\Content\kentta2.txt
+C:\Users\Omistaja\source\repos\PalomiesPanu\PalomiesPanu\bin\Debug\netcoreapp3.1\Content\maali.wav

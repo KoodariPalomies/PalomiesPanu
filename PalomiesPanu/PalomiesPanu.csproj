@@ -25,6 +25,9 @@
         <None Update="Content\tahti.png">
             <CopyToOutputDirectory>Always</CopyToOutputDirectory>
         </None>
+		<None Update="Content\kentta2.txt">
+			<CopyToOutputDirectory>Always</CopyToOutputDirectory>
+		</None>
     </ItemGroup>
 
 </Project>
