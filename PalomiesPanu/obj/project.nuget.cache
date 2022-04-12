@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "92XPSf8s206KbgtqRTyZuenv3wSaQofFSiz6zePhHIjymo7Up2m4qMiYEFMGoB5zGh8R7yltjjocqR2FXVhMCQ==",
+  "success": true,
+  "projectFilePath": "C:\\kurssit\\ohj1\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Käyttäjä\\.nuget\\packages\\jypeli.core\\9.0.1\\jypeli.core.9.0.1.nupkg.sha512",
+    "C:\\Users\\Käyttäjä\\.nuget\\packages\\jypeli.physics2d.core\\1.5.1\\jypeli.physics2d.core.1.5.1.nupkg.sha512",
+    "C:\\Users\\Käyttäjä\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Käyttäjä\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Käyttäjä\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
