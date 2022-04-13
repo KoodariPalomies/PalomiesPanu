@@ -460,58 +460,18 @@ public class PalomiesPanu : PhysicsGame
             tekstikentta.LifetimeLeft = TimeSpan.FromSeconds(5.0);
 
             // Peli palaa aloitustilanteeseen viiden sekunnin kuluttua.
-            //Timer.SingleShot(5, Begin); //Alkuperäinen!!!!, poistettu 12.4.2022
-            Timer.SingleShot(5, Kentta2); // Muutos 12.4.2022
+            Timer.SingleShot(5, Begin);
+
         }
     }
 
-    // Tästä alaspäin uutta 12.4.2022 ################################################################################
-    // Puutteita korjattavaksi
-    // - Sammuttamisen logiikka ei toimi --> Peli loppuu vaikka yksi on vielä sammuttamatta
-    // - Hiirtä voisi käyttää suuntaamaan vesi tai käsisammutinsuihkua (vesi ei lopu ja käsisammutin loppuu, sammutuspeitteellä mentävä lähelle)
-    // - Peli ei pääty, vaan jää jumiin kenttä2
+    //########################### Tästä alaspäin 13.4.2022 muutokset ###########################
 
     /// <summary>
-    /// Funktio, jolla luodaan uusi pelikenttä seuraavaa tasoa varten
+    /// Funktio, jolla voidaan suihkuttaa pikapalopostin ja käsisammuttimen sammutetta
     /// </summary>
-    private void Kentta2()
+    private void Suihkuta(PhysicsObject hahmo, PhysicsObject pikapaloposti)
     {
-        // Luodaan alkuvalikko.
-        MultiSelectWindow valikko = new MultiSelectWindow("Seuraava taso!",
-        "Aloita peli", "Ohjeet", "Lopeta");
-        valikko.Color = Color.Azure;
-        valikko.BorderColor = Color.Black;
-        valikko.AddItemHandler(0, valikko.Destroy);
-        valikko.AddItemHandler(1, Ohjeet);
-        valikko.AddItemHandler(2, Exit);
-        Add(valikko);
 
-        // Luodaan kenttä ja näppäimet pelaajan liikuttamista varten.
-        LuoKentta2();    // Muutettava erilaiseksi
-        LisaaNappaimet();
-        Camera.ZoomFactor = 1.2;
-        Camera.StayInLevel = true;
-
-        // Sammutinta ei ole alkutilanteessa valittu.
-        valittuSammutin = "";
-    }
-
-    /// <summary>
-    /// Funktio, joka luo kakkoskentän.
-    /// </summary>
-    private void LuoKentta2()
-    {
-        // Pelin kenttä ja oliot luodaan tekstitiedoston mukaisille paikoille.
-        // Oliot luodaan omissa aliohjelmissa.
-        TileMap kentta = TileMap.FromLevelAsset("kentta2.txt");
-        kentta.SetTileMethod('J', LisaaJateastia);
-        kentta.SetTileMethod('R', LisaaRasvapalo);
-        kentta.SetTileMethod('K', LisaaKasisammutin);
-        kentta.SetTileMethod('P', LisaaPikapaloposti);
-        kentta.SetTileMethod('S', LisaaSammutuspeite);
-        kentta.SetTileMethod('N', LisaaPelaaja);
-        kentta.Execute(RUUDUN_KOKO, RUUDUN_KOKO);
-        Level.CreateBorders();
-        Level.Background.CreateGradient(Color.White, Color.SkyBlue);
     }
 }
