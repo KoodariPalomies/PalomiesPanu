@@ -1,6 +1,0 @@
-What should I do next?
-
-- Add other levels.
-- Add more detailed explanations?
-- Make it visually more attractive.
-- Make a file for execution.
