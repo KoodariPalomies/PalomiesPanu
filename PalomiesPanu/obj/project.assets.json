@@ -251,11 +251,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Omistaja\\Source\\Repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
+      "projectUniqueName": "C:\\Users\\Omistaja\\source\\repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
       "projectName": "PalomiesPanu",
-      "projectPath": "C:\\Users\\Omistaja\\Source\\Repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
+      "projectPath": "C:\\Users\\Omistaja\\source\\repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
       "packagesPath": "C:\\Users\\Omistaja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Omistaja\\Source\\Repos\\PalomiesPanu\\PalomiesPanu\\obj\\",
+      "outputPath": "C:\\Users\\Omistaja\\source\\repos\\PalomiesPanu\\PalomiesPanu\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
@@ -311,7 +311,7 @@
           },
           {
             "name": "Microsoft.NETCore.App.Host.win-x64",
-            "version": "[3.1.23, 3.1.23]"
+            "version": "[3.1.24, 3.1.24]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
@@ -327,7 +327,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -464,14 +464,4 @@ public class PalomiesPanu : PhysicsGame
 
         }
     }
-
-    //########################### Tästä alaspäin 13.4.2022 muutokset ###########################
-
-    /// <summary>
-    /// Funktio, jolla voidaan suihkuttaa pikapalopostin ja käsisammuttimen sammutetta
-    /// </summary>
-    private void Suihkuta(PhysicsObject hahmo, PhysicsObject pikapaloposti)
-    {
-
-    }
 }

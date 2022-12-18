@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ZTQ98ghuzDcrb/KP+U+1XE5wVSaSsmnm7rxQciE9yJkujF5bjgC6rrNiEuYDu/LY9lvqA7QTYpBpmInWWfi+yg==",
+  "dgSpecHash": "EUvg4Kp/T0lr4AH5HKlHJHQ0rJ1+inD5RMJLK1n63hElTjsFv8fFYA4HVHGc/2enyOEK1RSmYDLoOQw1Srhhfw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Omistaja\\source\\repos\\PalomiesPanu\\PalomiesPanu\\PalomiesPanu.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,7 @@
     "C:\\Users\\Omistaja\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Omistaja\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
     "C:\\Users\\Omistaja\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
-    "C:\\Users\\Omistaja\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512",
+    "C:\\Users\\Omistaja\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512",
     "C:\\Users\\Omistaja\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\Omistaja\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
     "C:\\Users\\Omistaja\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
